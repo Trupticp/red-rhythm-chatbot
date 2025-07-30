@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+  color: #333;
+}
+h1 {
+  color: #b60000;
+}
+#chatbox {
+  margin-top: 20px;
+}
+button {
+  margin: 10px 5px;
+  padding: 8px 14px;
+  background-color: #b60000;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+input {
+  padding: 6px;
+  margin-top: 10px;
+}
